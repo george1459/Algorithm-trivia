@@ -1,0 +1,5 @@
+CollectPermutations
+WordCount
+*.o
+*.hi
+*.exe
